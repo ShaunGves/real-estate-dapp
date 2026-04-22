@@ -2,7 +2,7 @@
 
 A full-stack Ethereum dapp for fractional real estate ownership. Investors pool ETH to fund property purchases; on success, each contributor receives ERC-20 tokens proportional to their stake. On failure, every investor reclaims their ETH. Inspired by Dubai's PRYPCO Mint / DLD tokenization initiative.
 
-> **Important context:** This is an **educational implementation on Ethereum testnet**. Real-world tokenized real estate (like Dubai's PRYPCO Mint) requires SPV legal structures, KYC/AML, regulatory licensing (VARA in the UAE), and direct integration with land registries. This project demonstrates the *on-chain mechanism* that underlies such systems — not a substitute for the legal wrapper.
+> **Important context:** This is an **educational implementation on Ethereum testnet**. Real-world tokenized real estate (like Dubai's PRYPCO Mint) requires SPV legal structures, KYC/AML, regulatory licensing (VARA in the UAE) and direct integration with land registries. This project demonstrates the *on-chain mechanism* that underlies such systems — not a substitute for the legal wrapper.
 
 ## Architecture at a glance
 
